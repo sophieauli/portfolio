@@ -1,4 +1,5 @@
 import Head from 'next/head';
+
 import Navbar from '../components/Navbar';
 
 function Portfolio() {
@@ -17,7 +18,7 @@ function Portfolio() {
               Portfolio
             </h1>
             <p className="description">
-              Incididunt in cillum magna occaecat nisi qui in.
+              Feel free to look through some of my recent work
             </p>
 
             <div className="portfolio-wrapper">
@@ -30,7 +31,7 @@ function Portfolio() {
               <div className="portfolio-item">
                 <img src="/kajian.jpg" className="portfolio-image" alt="" />
 
-                <h4 className="portfolio-name">kajian App</h4>
+                <h4 className="portfolio-name">Sophie App</h4>
                 <div className="portfolio-category">Mobile Dev</div>
               </div>
             </div>

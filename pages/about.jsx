@@ -1,5 +1,4 @@
 import Head from 'next/head';
-
 import Navbar from '../components/Navbar';
 
 function About() {
@@ -18,7 +17,9 @@ function About() {
               About
             </h1>
             <p className="description">
-              My name is Sophie and I have recently decided to learn how to code. I am all about big and bright design interfaces. Have a look around!
+              My name is Sophie and I have recently decided to learn how to
+              code. I am all about big and bright design interfaces. Have a look
+              around!
             </p>
           </div>
         </div>
